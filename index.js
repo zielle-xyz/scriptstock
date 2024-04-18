@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ticket to order", "buy now !"];
+const statusMessages = ["Buy Now @ Script Stock"];
 
 
 let currentIndex = 0;
