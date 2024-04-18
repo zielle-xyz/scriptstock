@@ -1,0 +1,2 @@
+# scriptstock
+script stock bot
